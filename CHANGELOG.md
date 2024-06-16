@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-12)
+## Unreleased (2024-06-16)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`11c882d`](https://github.com/stdlib-js/stdlib/commit/11c882dcc261abe6a898a3061b45af7f0d4a41cd) - **chore:** update package meta data [(##2379)](#2379) _(by stdlib-bot, Athan Reines)_
 -   [`34bc79c`](https://github.com/stdlib-js/stdlib/commit/34bc79cf154e0c82320c4a60c2cc805434a4b6e6) - **chore:** delete extra repl.txt file _(by Philipp Burckhardt)_
 -   [`a4dee7d`](https://github.com/stdlib-js/stdlib/commit/a4dee7d62df7875184dfc8fc3212afe086587353) - **fix:** move repl.txt file and address feedback _(by Philipp Burckhardt)_
 -   [`a7e5bb3`](https://github.com/stdlib-js/stdlib/commit/a7e5bb34eb13a2f774dd4e6840854266215b1264) - **chore:** update line endings _(by Philipp Burckhardt)_
@@ -47,8 +48,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Ridam Garg
 -   stdlib-bot
