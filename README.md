@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import nanmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmax@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-nanmax/tags). For example,
+
+```javascript
 import nanmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmax@v0.0.1-esm/index.mjs';
 ```
 
