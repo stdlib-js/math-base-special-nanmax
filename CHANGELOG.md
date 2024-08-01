@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="v0.0.2">
+<section class="release" id="unreleased">
 
-## 0.0.2 (2024-07-28)
+## Unreleased (2024-08-01)
 
 <section class="commits">
 
@@ -12,7 +12,7 @@
 
 <details>
 
--   [`659f752`](https://github.com/stdlib-js/stdlib/commit/659f752db18317bf5fc237fdbcad0d74b61e1ed9) - **style:** add missing spaces _(by Philipp Burckhardt)_
+-   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
 
 </details>
 
@@ -26,7 +26,7 @@
 
 A total of 1 person contributed to this release. Thank you to this contributor:
 
--   Philipp Burckhardt
+-   Athan Reines
 
 </section>
 
@@ -36,62 +36,21 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.release -->
 
+<section class="release" id="v0.0.2">
+
+## 0.0.2 (2024-07-28)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.0.1">
 
 ## 0.0.1 (2024-06-19)
 
-<section class="features">
-
-### Features
-
--   [`bffee89`](https://github.com/stdlib-js/stdlib/commit/bffee891fd783eebc475e8ecefa035025df7f2dd) - add `math/base/special/nanmax`
-
-</section>
-
-<!-- /.features -->
-
-<section class="bug-fixes">
-
-### Bug Fixes
-
--   [`a4dee7d`](https://github.com/stdlib-js/stdlib/commit/a4dee7d62df7875184dfc8fc3212afe086587353) - move repl.txt file and address feedback
-
-</section>
-
-<!-- /.bug-fixes -->
-
-<section class="commits">
-
-### Commits
-
-<details>
-
--   [`11c882d`](https://github.com/stdlib-js/stdlib/commit/11c882dcc261abe6a898a3061b45af7f0d4a41cd) - **chore:** update package meta data [(#2379)](https://github.com/stdlib-js/stdlib/pull/2379) _(by stdlib-bot, Athan Reines)_
--   [`34bc79c`](https://github.com/stdlib-js/stdlib/commit/34bc79cf154e0c82320c4a60c2cc805434a4b6e6) - **chore:** delete extra repl.txt file _(by Philipp Burckhardt)_
--   [`a4dee7d`](https://github.com/stdlib-js/stdlib/commit/a4dee7d62df7875184dfc8fc3212afe086587353) - **fix:** move repl.txt file and address feedback _(by Philipp Burckhardt)_
--   [`a7e5bb3`](https://github.com/stdlib-js/stdlib/commit/a7e5bb34eb13a2f774dd4e6840854266215b1264) - **chore:** update line endings _(by Philipp Burckhardt)_
--   [`bffee89`](https://github.com/stdlib-js/stdlib/commit/bffee891fd783eebc475e8ecefa035025df7f2dd) - **feat:** add `math/base/special/nanmax` _(by Ridam Garg, stdlib-bot, Philipp Burckhardt)_
-
-</details>
-
-</section>
-
-<!-- /.commits -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 4 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
--   Ridam Garg
--   stdlib-bot
-
-</section>
-
-<!-- /.contributors -->
+No changes reported for this release.
 
 </section>
 
