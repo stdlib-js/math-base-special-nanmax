@@ -2,6 +2,51 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-10-23)
+
+<section class="features">
+
+### Features
+
+-   [`bccdfa2`](https://github.com/stdlib-js/stdlib/commit/bccdfa26987e00d4994a7a1d8265a21c5545ff98) - add C implementation for `math/base/special/nanmax` [(#3031)](https://github.com/stdlib-js/stdlib/pull/3031)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`bccdfa2`](https://github.com/stdlib-js/stdlib/commit/bccdfa26987e00d4994a7a1d8265a21c5545ff98) - **feat:** add C implementation for `math/base/special/nanmax` [(#3031)](https://github.com/stdlib-js/stdlib/pull/3031) _(by Gunj Joshi, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gunj Joshi
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.0.2">
 
 ## 0.0.2 (2024-07-28)
