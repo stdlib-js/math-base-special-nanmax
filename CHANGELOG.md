@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-12)
+## Unreleased (2025-06-28)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`0240ed9`](https://github.com/stdlib-js/stdlib/commit/0240ed95c31c83898c7605781a2b73e508b8ef71) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`f770fc2`](https://github.com/stdlib-js/stdlib/commit/f770fc258b7976ebd51fb501290cb33296d2e036) - **docs:** add missing fields in `package.json` [(#3036)](https://github.com/stdlib-js/stdlib/pull/3036) _(by Gunj Joshi)_
 -   [`bccdfa2`](https://github.com/stdlib-js/stdlib/commit/bccdfa26987e00d4994a7a1d8265a21c5545ff98) - **feat:** add C implementation for `math/base/special/nanmax` [(#3031)](https://github.com/stdlib-js/stdlib/pull/3031) _(by Gunj Joshi, Athan Reines)_
